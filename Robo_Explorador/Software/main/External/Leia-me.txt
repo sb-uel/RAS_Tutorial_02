@@ -1,0 +1,4 @@
+Copiar ambas as pastas "Servo" e "Ultrasonic" para o diretório "libraries" do Arduino.
+
+C:\Program Files (x86)\Arduino\libraries
+
