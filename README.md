@@ -1,6 +1,6 @@
-# RAS_Tutorial_02
+# RAS_Tutorial_02 (Robô Explorador)
 
-Código básico desenvolvido pelos voluntários do RAS do RAMO ESTUDANTIL IEEE - UEL com o propósito de introduzir robótica aos novos membros.
+Com base nas informações e código disponibilizado neste repositório e com as instruções disponíveis no arquivo **ras_tutorial_02.pdf**, responder as questões propostas e realizar a implementação do robô explorador.
 
 # Visão Geral:
 
@@ -84,16 +84,16 @@ Código básico desenvolvido pelos voluntários do RAS do RAMO ESTUDANTIL IEEE -
 ## PinOut
 ````
 /*--------------------------------------*
-*      PINOUT ROBO (Arduino)       	   *
+*      PINOUT ROBO (Arduino)       	    *
 *--------------MOTOR--------------------*
-* Motor 1   - EN=~10, ESQ=2, DIR=3  	   *
-* Motor 2   - EN=~11, ESQ=6, DIR=7  	   *
+* Motor 1   - EN=~10, ESQ=2, DIR=3  	  *
+* Motor 2   - EN=~11, ESQ=6, DIR=7  	  *
 *-----------------SERVO-----------------*
-* Servo     - PWM=~9        		   *
+* Servo     - PWM=~9        		        *
 *-----------------SENSOR----------------*
-* Ultrassom - TRIG=4, ECHO=5      	   *
+* Ultrassom - TRIG=4, ECHO=5      	    *
 *-------------POTENCIOMETRO-------------*
-* Pot 1 = A0    -    Pot 2 = A1   	   *
+* Pot 1 = A0    -    Pot 2 = A1   	    *
 *---------------------------------------*/
 ````
 
