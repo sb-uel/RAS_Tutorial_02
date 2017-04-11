@@ -86,21 +86,21 @@ Com base nas informações e código disponibilizado neste repositório e com as
 /*--------------------------------------*
 *      PINOUT ROBO (Arduino)       	    *
 *--------------MOTOR--------------------*
-* Motor 1   - EN=~10, ESQ=2, DIR=3  	  *
-* Motor 2   - EN=~11, ESQ=6, DIR=7  	  *
+* Motor 1   - EN=~10, ESQ=2, DIR=3  	   *
+* Motor 2   - EN=~11, ESQ=6, DIR=7  	   *
 *-----------------SERVO-----------------*
-* Servo     - PWM=~9        		        *
+* Servo     - PWM=~9        		          *
 *-----------------SENSOR----------------*
-* Ultrassom - TRIG=4, ECHO=5      	    *
+* Ultrassom - TRIG=4, ECHO=5      	     *
 *-------------POTENCIOMETRO-------------*
-* Pot 1 = A0    -    Pot 2 = A1   	    *
+* Pot 1 = A0    -    Pot 2 = A1   	     *
 *---------------------------------------*/
 ```
 
 # Getting Started:
  - Realize o download do projeto
- - siga as instruções do aquivo LEIA-ME.txt (.\Software\External\LEIA-ME.txt). 
- - Complete as tarefas presentes no documento ras_tutorial_02.pdf
+ - Siga as instruções do aquivo 'LEIA-ME.txt' (.\Software\External\LEIA-ME.txt). 
+ - Complete as tarefas presentes no documento 'ras_tutorial_02.pdf'
  
  
 # Desenvolvedores
